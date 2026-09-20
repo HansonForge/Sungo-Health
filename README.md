@@ -41,7 +41,11 @@ Sungo Health is an intelligent personal health management application. It connec
 | Storage | MMKV / SQLite |
 | Visualization | Custom View (Canvas) |
 | Login | SMS + WeChat Open Platform |
+## Screenshots
 
+![Dashboard](screenshots/微信图片_20260825024214_20_264.jpg)
+![Login](screenshots/微信图片_20260825024233_21_264.jpg)
+![Report](screenshots/微信图片_20260825024405_24_264.jpg)
 ## Team
 
 Developed by **HansonForge**.
